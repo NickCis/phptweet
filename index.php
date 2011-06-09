@@ -224,7 +224,7 @@
     ...<br />
     ?&gt;
   </code>
-  <p><strong>2.</strong> In <span class="code">&lt;body&gt;</span>, include a placeholder for your tweets. They'll get loaded in via JSON. How fancy!</p>
+  <p><strong>2.</strong> In <span class="code">&lt;body&gt;</span>, include a placeholder for your tweets.</p>
   <code>
     &lt;div class=&quot;tweet&quot;&gt;&lt;/div&gt;
   </code>
